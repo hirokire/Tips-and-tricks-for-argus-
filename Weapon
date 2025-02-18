@@ -7,24 +7,24 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: black; /* Set background to black */
-            color: white; /* Set text color to white for contrast */
+            background-color: black; 
+            color: white; 
             margin: 0;
             padding: 0;
         }
         nav {
             margin: 50px 0 20px; 
             display: flex;
-            border: 2px solid red; /* Add red border around the navigation */
+            border: 2px solid red; 
             padding: 10px;
         }
         nav a {
             margin: 0 15px;
             text-decoration: none;
             padding: 10px;
-            background-color: Red;
+            background-color: red;
             border-radius: 5px;
-            color: black; /* Set link color */
+            color: black; 
         }
         nav a:hover {
             background-color: #ddd;
@@ -40,6 +40,12 @@
         .active {
             display: block;
         }
+         img {
+            width: 100%; 
+            max-width: 400px; 
+            margin-top: 20px;
+            border-radius: 10px;
+        }
     </style>
 </head>
 <body>
@@ -53,6 +59,7 @@
 
     <div id="page1" class="page active">
         <h1>INTRODUCTION OF ARGUS</h1>
+         <img src="img.jpg" alt="Argus - Mobile Legends">
         <p>Argus and Rafaela are a pair of twin angels. Yet the angels of legend are all female, making Argus something of an outcast. While the Monastery of Light utilizes his powers to eradicate all heresy, it's never even acknowledged his existence. While Argus despises humankind, holding it in the utmost disdain, he once came into possession of a demonic blade in the midst of a battle and at that moment realized that he too was a son of man. That he was orphaned when his parents were slain by other humans. Under the demonic blade's curse he was overcome by resentment, falling into a demonic state himself as he became the Dark Angel.</p>
         <h1> LORE.</h1>
         <p> 
@@ -110,28 +117,34 @@ The angel had abandoned all he once had. And so holiness severed its boned with 
 Once, human blood had flown within him, and he was blessed by the Gods themselves, once, he had lived for naught but the Light, for peace. From that day on, however, it was an endless curse that accompanied him instead, a fated curse bequeathed by the God of Destruction.
 
 Now, he’s Argus: the only Dark Angel in this world.</p>
+     
     </div>
 
     <div id="page2" class="page">
         <h1>ARGUS'S WEAPON AND ORIGIN!!</h1>
         <h3> METIORIC SWORD</h3>
+        <img src="sword.jpg" alt="Argus - Mobile Legends">
         <p>Argus unlocked the Meteoric Sword in the midst of the fighting. The sword revealed that Argus was actually born a human, orphaned when his parents were slain by his own kind. Under the Meteoric Sword's Curse, he was overcome with resentment and fell into a demonic state, becoming the Dark Angel. which granted him power's that he didn't know he have.</p>
+        
     </div>
 
     <div id="page3" class="page">
         <h1>SKILL'S</h1>
         <h3>ARUS'S FIRST SKILL</h3>
         <p>Demonic Grip</p>
+        <img src="demonic grip.jpg" alt="Argus - Mobile Legends">
         <p>Argus stretches out a demonic hand in the target direction, dealing 125 (+60%Extra Physical Attack) Physical Damage to the first enemy hero or Creep hit, stunning them for 0.7s, and pulling him and the target towards each other. If no enemy is hit, Argus pulls himself toward the hand's destination instead.
 Use Again: Argus dashes and strikes in the target direction, dealing 175 (+100%Extra Physical Attack) Physical Damage to enemies along the path.</p>
         
         <h3>ARGUS'S SECOND SKILL</h3>
         <p>Meteoric Sword</p>
+        <img src="demonic slash.jpg" alt="Argus - Mobile Legends">
         <p>After a short delay, Argus thrusts his Meteoric Sword in the target direction, dealing 300 (+100%Total Physical Attack) Physical Damage to enemies hit (200% damage against minions) and reducing their Movement Speed by 80% for 0.8s. The delay time will decrease as Argus' Attack Speed increases.
 Enemy heroes or Creeps hit will be Cursed for 4s, during which they will leave a Cursed Trail behind. Argus gains 40% Movement Speed while on a Cursed Trail. Argus' Basic Attacks on Cursed targets will grant double Malice Energy.
 Meteoric Sword damage counts as Basic Attack damage and can trigger Attack Effects.</p>
         
         <h3>ARGUS'S ULT</h3> 
+        <img src="immortality or death.jpg" alt="Argus - Mobile Legends">
         <p>Argus removes all debuffs on himself (except for Suppression) and enters Eternal Evil state, gaining Death Immunity for 4s. While in this state, 100% of his damage dealt to enemy heroes will be converted into HP for him once the state ends.
 Leaving the Eternal Evil state also resets enemy Turrets' damage increase against Argus.
 Passive: Permanently increases the recharge of Malice Energy by 4 per second.</p>
@@ -141,11 +154,15 @@ Passive: Permanently increases the recharge of Malice Energy by 4 per second.</p
     <div id="page4" class="page">
         <h1>ROLE</h1>
         <h3>Fighter.</h3>
-        <p>Argus is fast at destroying turrets especially when he has attack speed items. Use the second skill to your advantage. It can bleed your targets while stepping on their trail can give you a massive movement speed boost. Use this especially when your target is running away as it slows them down, and on top of that argus can also use attack speed based item's which mean's on top of his slow on the enemies he can kill them with crit and attack speed based builds.</p>
+        <img src="Argus role.jpg" alt="Argus - Mobile Legends">
+        <p>Argus is fast at destroying turrets especially when he has attack speed items. Use the second skill to your advantage. It can bleed your targets while stepping on their trail can give you a massive movement speed boost. Use this especially when your target is running away as it slows them down, and on top of that argus can also use attack speed based item's which mean's on top of his slow on the enemies he can kill them with crit and attack speed based builds, argus is knowned as a fighter yet players uses assassin based emblem becase the assassin emblem.</p>
+        <h3>Argus emblem</h3>
+        <img src="Assassin emblem.jpg" alt="Argus - Mobile Legends">
     </div>
 
     <div id="page5" class="page">
         <h1>My tips on using argus.</h1>
+        <img src="My argus emblem and score.jpg" alt="Argus - Mobile Legends">
         <p>based on my expirience on using argus, now this day's he can be used in many lane's that also has a upper hand specially on gold lane's since most of the heroes in gold lane's are easy to kill he'll have the upper hand on them. while on the gold lane it'll be easy well in the exp lane it'll be hard since you'll have to keep up in tanky or high damaged penetration heroes such as benedetta. you'll also need to use your skill's wisely, especially in the early games since argus is a late game type of hero. argus is a fun hero to use specially in 5man game's and your teammates know's how you play it's much easier and faster. argus can be used in many ways yet he's mostly used in  exp lanes with crit item's mixed with trinity build.</p>
     </div>
 
@@ -164,4 +181,5 @@ Passive: Permanently increases the recharge of Malice Energy by 4 per second.</p
     </script>
 </body>
 </html>
+
 
